@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/laxminarayankatker/samplepackage/issues"
   },
-  "homepage": "https://github.com/laxminarayankatker/samplepackage#readme"
+  "homepage": "https://github.com/laxminarayankatker/samplepackage#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
